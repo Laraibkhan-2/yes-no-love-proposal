@@ -1,0 +1,36 @@
+
+   body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: lightpink;
+        flex-direction:column;
+    }
+    button {
+      padding: 5px 20px;
+      margin: 10px;
+      height: 30px;
+      width: 80px;
+      font-size: 20px;
+      cursor: pointer;
+      background:  rgb(196, 117, 128);
+      color: rgb(155, 24, 42);
+      border: none;
+      border-radius: 25px;
+    }
+    
+    #heading {
+      font-size: 50px;
+      margin-top: 20px;
+      color: rgb(165, 46, 62);
+    }
+    #image {
+      max-width: 350px;
+      height: auto;
+      margin-top: 5px;
+    }
+     
